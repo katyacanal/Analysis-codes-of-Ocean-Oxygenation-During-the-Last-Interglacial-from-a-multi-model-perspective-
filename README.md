@@ -1,4 +1,4 @@
-# Analysis-codes-of-Ocean-Oxygenation-During-the-Last-Interglacial-from-a-multi-model-perspective-
+# Analysis codes of "Ocean Oxygenation During the Last Interglacialu from a multi-model perspective"
 All codes provided correspond to all plots and tables for the "Ocean Oxygenation During the Last Interglacial from a multi-model perspective" manuscript, including the appendix section.
 ## Datasets
 HadCM3 and KCM model outputs for oxygen, AOU and O2SAT ...
