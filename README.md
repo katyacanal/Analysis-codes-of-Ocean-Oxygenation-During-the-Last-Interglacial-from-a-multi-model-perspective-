@@ -1,9 +1,9 @@
 # Analysis codes of "Ocean Oxygenation During the Last Interglacial from a multi-model perspective"
-This repository contains the data and analysis codes used to generate all figures and tables presented in the manuscript "Ocean Oxygenation During the Last Interglacial from a Multi-Model Perspective", including those presented in the Appendix.
+This repository contains the analysis codes used to generate all figures and tables presented in the manuscript "Ocean Oxygenation During the Last Interglacial from a Multi-Model Perspective", including those presented in the Appendix.
 
 ## Datasets
 This study uses outputs from seven climate and ocean models: HadCM3, KCM, ACCESS-ESM1.5, IPSL-CM6A-LR, MIROC-ES2L, NorESM1-F and NorESM2-LM. The datasets used in this study were obtained from the following sources:
-- HadCM3 and KCM: Model outputs for oxygen (O₂), Apparent Oxygen Utilisation (AOU), and oxygen saturation (O₂SAT), in the form of climatologies, are provided in Zenodo: https://doi.org/10.5281/zenodo.24297316
+- HadCM3 and KCM: Model outputs for oxygen (O₂), Apparent Oxygen Utilisation (AOU), and oxygen saturation (O₂SAT), in the form of climatologies and anomalies, can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.24297316
 - ACCESS-ESM1.5: Model outputs are available from the University of New South Wales repository: https://doi.org/10.26190/unsworks/30420 (Yeung, 2024).
 - IPSL-CM6A-LR, MIROC-ES2L, NorESM1-F and NorESM2-LM: Model outputs were obtained from the Earth System Grid Federation (ESGF): https://esgf-node.ornl.gov/ (last accessed on 8 September 2026).
 ## Requirements to run these codes
