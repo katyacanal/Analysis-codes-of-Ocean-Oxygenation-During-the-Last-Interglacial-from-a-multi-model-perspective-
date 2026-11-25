@@ -1,4 +1,4 @@
-# Analysis codes of "Ocean Oxygenation During the Last Interglacial from a multi-model perspective"
+# Analysis codes of "Ocean oxygenation during the Last Interglacial from a multi-model perspective"
 This repository contains the analysis codes used to generate all figures and tables presented in the manuscript "Ocean Oxygenation During the Last Interglacial from a Multi-Model Perspective", including those presented in the Appendix.
 
 ## Datasets
