@@ -1,5 +1,5 @@
 # Analysis codes of "Ocean oxygenation during the Last Interglacial from a multi-model perspective"
-This repository contains the analysis codes used to generate all figures and tables presented in the manuscript "Ocean Oxygenation During the Last Interglacial from a Multi-Model Perspective", including those presented in the Appendix.
+This repository contains the analysis codes used to generate all figures and tables presented in the manuscript "Ocean oxygenation during the Last Interglacial from a multi-model perspective", including those presented in the Appendix.
 
 ## Datasets
 This study uses outputs from seven climate and ocean models: HadCM3, KCM, ACCESS-ESM1.5, IPSL-CM6A-LR, MIROC-ES2L, NorESM1-F and NorESM2-LM. The datasets used in this study were obtained from the following sources:
